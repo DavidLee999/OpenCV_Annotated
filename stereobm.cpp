@@ -45,6 +45,8 @@
 *    Contributed by Kurt Konolige                                                        *
 \****************************************************************************************/
 
+// just test
+
 #include "precomp.hpp"
 #include <stdio.h>
 #include <limits>
